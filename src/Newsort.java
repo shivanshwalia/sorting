@@ -13,7 +13,7 @@ public class Newsort {
             for (int j = i + 1; j < arr.length; j++) {
  
                 // Checking elements
-                int temp = 0;
+                int temp = 0; 
                 if (arr[j] < arr[i]) {
  
                     // Swapping
